@@ -4,7 +4,6 @@ Various package arts found (and still more to be found) in EA's large media serv
 
 Everything found here is part of the public domain, i DO NOT own any software/image
 The scope of this collection is to be freely accessible to the public at large.
-
 Anyone can copy, modify, share, or use in any commercial/non-commercial way
 
 Although not my property, I make an effort to offer as much as I can find to the public at no costs 
