@@ -1,6 +1,8 @@
 EA-Packart-Collection
 
-Various package arts found (and still more to be found) in EA's large media server 
+Various package arts found (and still more to be found) in EA's large media server
+
+https://github.com/ariso2003/EA-Packart-Collection-.wiki.git 
 
 Everything found here is part of the public domain, i DO NOT own any software/image
 The scope of this collection is to be freely accessible to the public at large.
