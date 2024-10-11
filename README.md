@@ -1,6 +1,7 @@
 EA-Packart-Collection
 
 Various package arts found (and still more to be found) in EA's large media server
+
 Inspired by ThirteenAG's "EA-Art-Collection" of key arts and logos 
 
 https://github.com/ariso2003/EA-Packart-Collection-/wiki/Packarts
