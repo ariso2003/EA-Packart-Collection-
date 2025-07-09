@@ -26,4 +26,5 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Credits/Thanks: 
 ThirteenAG - Inspired by their "EA-Art-Collection" of key arts and logos 
+
 R-033/0x33 - Help with finding various Need For Speed/NFS covers
