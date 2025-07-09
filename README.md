@@ -24,7 +24,8 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-Credits/Thanks: 
+Credits/Thanks:
+ 
 ThirteenAG - Inspired by their "EA-Art-Collection" of key arts and logos 
 
 R-033/0x33 - Help with finding various Need For Speed/NFS covers
